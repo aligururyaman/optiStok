@@ -1,8 +1,9 @@
-# React + Vite
+# optiStok Gözlükçü Stok Takip Uygulaması
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uygulamanın amacı bir gözlükçünün Stoğundaki camları takip etmesi
 
-Currently, two official plugins are available:
+Uygulamanın ileriki aşamalarında planlama :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Medula üzerinden APİ verilerine ulaşabilirsim bir gözlükçü kendi medula sistemi ile uygulamayı eş zamanlı kullanıp, Hastanın getirdiği gözlük reçetesini girdikten sonra doktorun belirtmiş olduğu numaraların stoğunda olup olmadığını görecek. Bu aşamaya gelinirse uygulamaya müşteri takibi yapan bir sistem eklenecek eğer bu aşamaya gelinemez ise müşteri takip sistemi yine olacak fakat bu sefer stoktan düşen camların hangi müşteriye gittiği ve müşterinin hangi marka cam kullandığını veride tutan bir yapı eklenecek. 
+
+# Bu proje CV'ye eklenecek
